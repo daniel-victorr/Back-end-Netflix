@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "border": "^0.0.13",
+    "cors": "^2.8.5",
+    "mongoose": "^6.6.2",
+    "nodemon": "^2.0.20",
+    "parse": "^3.4.4"
+  },
+  "name": "projeto-back-end",
+  "version": "1.0.0",
+  "description": "Projeto Back-end cadastro e login",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel-Dev",
+  "license": "ISC"
+}
